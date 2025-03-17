@@ -6,3 +6,9 @@ Todo list for google sheet by using App Script extension
 
 - Automatically reorder lists by deadline
 - Automatically remove a list if it's done
+
+## Set-up
+
+1. set google sheet follow the image
+2. Enter App Script via Extensions Tab on top
+3. Paste a code from "code.gs" then Ctrl+S
